@@ -25,7 +25,7 @@ Function gitPush {
     git status >> .\gitpush.log 
     git add . >> .\gitpush.log
     git commit -m "$age"  >> .\gitpush.log
-    git push origin master  >> .\gitpush.log
+    git push origin main  >> .\gitpush.log
 }
 
 gitPush # 运行函数
