@@ -390,6 +390,21 @@
               <FileType>1</FileType>
               <FilePath>..\APP\src\main.c</FilePath>
             </File>
+            <File>
+              <FileName>Led.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\APP\src\Led.c</FilePath>
+            </File>
+            <File>
+              <FileName>usart.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\APP\src\usart.c</FilePath>
+            </File>
+            <File>
+              <FileName>stm32f10x_it.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\APP\src\stm32f10x_it.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
